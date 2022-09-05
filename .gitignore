@@ -1,0 +1,8 @@
+*.fastq.gz
+*/*.fastq.gz
+*/*.fastq
+*/*.zip
+*/*.bam
+*/*.bam.bai
+*/*.sam
+*/*.ipynb
