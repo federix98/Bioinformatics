@@ -1,0 +1,2 @@
+This is cutadapt 4.1 with Python 3.8.13
+Command line parameters: --minimum-length= --maximum-length= -o analysis/70459/70459-directUMIextracted-minmaxL.fastq analysis/70459/70459-directUMIextracted.fastq

@@ -1,0 +1,16 @@
+This is cutadapt 4.1 with Python 3.8.13
+Command line parameters: --minimum-length=18 --maximum-length=30 -o analysis/74684/74684-directUMIextracted-min18max30L.fastq analysis/74684/74684-directUMIextracted.fastq
+Processing single-end reads on 1 core ...
+Finished in 9.30 s (1 µs/read; 50.90 M reads/minute).
+
+=== Summary ===
+
+Total reads processed:               7,891,104
+
+== Read fate breakdown ==
+Reads that were too short:           6,886,996 (87.3%)
+Reads that were too long:               61,835 (0.8%)
+Reads written (passing filters):       942,273 (11.9%)
+
+Total basepairs processed:    71,718,650 bp
+Total written (filtered):     19,807,192 bp (27.6%)

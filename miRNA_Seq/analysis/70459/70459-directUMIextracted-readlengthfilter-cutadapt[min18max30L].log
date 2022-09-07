@@ -1,7 +1,7 @@
 This is cutadapt 4.1 with Python 3.8.13
 Command line parameters: --minimum-length=18 --maximum-length=30 -o analysis/70459/70459-directUMIextracted-min18max30L.fastq analysis/70459/70459-directUMIextracted.fastq
 Processing single-end reads on 1 core ...
-Finished in 11.58 s (1 µs/read; 40.92 M reads/minute).
+Finished in 10.03 s (1 µs/read; 47.24 M reads/minute).
 
 === Summary ===
 
